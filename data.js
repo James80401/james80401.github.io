@@ -911,12 +911,12 @@ export const PROJECTS = {
    "id": "catterton",
    "title": "The Chronicles of Catterton",
    "tagline": "Illustrated picture books where house cats secretly live as Regency nobility",
-   "summary": "The Chronicles of Catterton is an illustrated picture-book series for young readers. At Black Velvet Hall, three house cats live as Regency nobility whenever the humans are not looking, and Episode 1, A Hall Divided, follows Juliette, the black cat who rules the house, as two new sisters arrive and upset her world. Each episode is built in a local production app that locks character and room references, plans shots in 15-image storyboards and gates each illustration through QA and human approval before a print export.",
+   "summary": "The Chronicles of Catterton is an illustrated picture-book series for young readers. At Black Velvet Hall, three house cats live as Regency nobility whenever the humans are not looking. Episode 1, A Hall Divided, follows Juliette, the black cat who rules the house, as two new sisters arrive and upset her world; its paperback and Kindle editions were published in October 2026. Later episodes are in production through James's local Story Builder app, which keeps the characters and rooms consistent across illustrations.",
    "highlights": [
-    "Episode 1: 30 full-page illustrations across a 32-page, 8 x 10 color book",
+    "Episode 1 published in October 2026: 30 full-page illustrations in a 32-page, 8 x 10 color paperback and a fixed-layout Kindle edition",
     "Two layers in every scene: a sword duel in the Regency fantasy is a hiss and a paw swat in the real house",
     "Character sheets, drawn from photos of three real cats, and room masters are locked once and reused across episodes",
-    "Episode 2 is in illustration review, and a later episode, Two Sisters, One Chair, already has a 60-image export package"
+    "Episode 2 is in illustration review; Episode 3, Two Sisters, One Chair, has a 60-image export package; Episode 4, The Cat at the Garden Gate, has a story bible and illustration candidates"
    ],
    "tech": [
     "Node.js",
