@@ -9,7 +9,7 @@ export const AREAS = [
     lead: 'Web applications, platforms and tools. Some are running, some are still on the bench.'},
   {id: 'writing', name: 'Writing', short: 'Writing', theme: 'reading', accent: '#7a4a2c',
     kicker: 'THE READING ROOM / BOOKS', h2: 'Writing.<br><em>Stories, finished and underway.</em>',
-    lead: 'A literary horror duology, a horror novella and an illustrated picture-book series, plus the fantasy worlds still being drafted.'},
+    lead: 'Novels, novellas, picture books and story worlds, from full drafts to living outlines.'},
   {id: 'games', name: 'Games', short: 'Games', theme: 'arcade', accent: '#b8862f',
     kicker: 'THE ARCADE / GAMES IN DEVELOPMENT', h2: 'Games.<br><em>Systems you can play.</em>',
     lead: 'Strategy, management and action games across Godot, Unreal, Unity and the browser, from first prototypes to playable builds.'},

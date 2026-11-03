@@ -77,9 +77,14 @@ export const PROJECTS = {
     "Python",
     "glTF"
    ],
-   "status": "In progress",
+   "status": "Live",
    "year": "2026",
-   "links": [],
+   "links": [
+    {
+     "label": "Visit site",
+     "url": "https://jamesshields.dev/"
+    }
+   ],
    "media": [
     {
      "file": "media/the-workshop/01.jpg",
@@ -329,6 +334,27 @@ export const PROJECTS = {
      "h": 1000
     }
    ]
+  },
+  {
+   "id": "the-art-cade",
+   "title": "The Art-Cade website preview",
+   "tagline": "A mobile-first shop and arcade preview for a Staunton, Virginia business",
+   "summary": "A private website preview for The Art-Cade, a downtown rock shop and arcade. It gives visitors routes to plan a visit, explore the shop and browse a demonstration catalog. Cart, pickup and shipping flows show how online sales could work, while checkout and customer submissions remain in demo mode.",
+   "highlights": [
+    "Home page and interior journeys for visiting, shopping and community discovery",
+    "Demo catalog with search, filters, product details and a preview cart",
+    "Launch handoff identifies inventory, payments, newsletter and owner-operation integration points",
+    "Private deployed preview; the existing public business site was not replaced"
+   ],
+   "tech": [
+    "Web design",
+    "Responsive UI",
+    "Commerce prototype"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ],
  "code": [
@@ -736,6 +762,72 @@ export const PROJECTS = {
      "h": 1000
     }
    ]
+  },
+  {
+   "id": "guided-memoir",
+   "title": "Guided Memoir",
+   "tagline": "An interview and recording prototype for turning life stories into source-grounded prose",
+   "summary": "A memoir application prototype built around guided interviews, recorded answers and a source ledger that ties narrative claims back to what a participant actually said. The hosted prototype and a later development package exist; reliable recording recovery and phone testing remain open work.",
+   "highlights": [
+    "Guided questions and answer-linked recording records",
+    "Source ledger separates original testimony from generated narrative",
+    "Ten domain tests passed in the prepared development package",
+    "Recorder durability and mobile behavior are still under review"
+   ],
+   "tech": [
+    "JavaScript",
+    "Browser audio",
+    "Local storage"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "e-story-generation",
+   "title": "E-Story Generation",
+   "tagline": "A local story-production workspace with outline gates and human chapter approval",
+   "summary": "A local narrative production system combining outline packages, a review dashboard, Postgres state, Ollama drafting and image-job provenance. The workflow drafts in chapter-sized steps, records versions and waits for human review. The command center and isolated services are built; full remote control and real-story acceptance remain unfinished.",
+   "highlights": [
+    "Outline parser, story-package validator and review queue",
+    "Chapter drafts stored with versioned artifacts, coverage checks and human approval states",
+    "Isolated Postgres and n8n services, with protected command and notification APIs",
+    "Image candidate runs store prompts, seeds, references and checksums"
+   ],
+   "tech": [
+    "Node.js",
+    "PostgreSQL",
+    "n8n",
+    "Ollama",
+    "ComfyUI"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "generation-station",
+   "title": "Generation Station",
+   "tagline": "A local control panel for distinct story and media production workflows",
+   "summary": "Generation Station provides one local starting point for several creative production tools. It lets an operator choose a workflow, review its rules, create a draft run manifest, open the source app and inspect a controlled asset catalog. Each source project keeps its own files and approval process; the station does not publish or move assets automatically.",
+   "highlights": [
+    "Local web interface with registered workflows and source-app launch links",
+    "Draft run manifests require workflow-specific confirmations",
+    "Asset catalog records provenance and transfer rules before reuse",
+    "Validation script and Windows launcher are included"
+   ],
+   "tech": [
+    "Node.js",
+    "JavaScript",
+    "HTML",
+    "CSS"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ],
  "writing": [
@@ -999,6 +1091,172 @@ export const PROJECTS = {
      "h": 1500
     }
    ]
+  },
+  {
+   "id": "the-spring-beneath",
+   "title": "The Spring Beneath",
+   "tagline": "A supernatural thriller draft about a missing girl and the town beneath the case",
+   "summary": "A private investigator follows a missing girl's case into a town where ordinary explanations begin to fail. The manuscript follows Elias through the investigation and the people drawn into it. A full draft and separate chapter files are preserved in Google Drive.",
+   "highlights": [
+    "Full manuscript draft of about 59,000 words",
+    "Chapter files and character notes accompany the combined draft",
+    "Investigation and supernatural mystery develop together from the opening case"
+   ],
+   "tech": [
+    "Google Docs",
+    "Microsoft Word"
+   ],
+   "status": "In progress",
+   "year": "2025",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "the-quiet-engine",
+   "title": "The Quiet Engine",
+   "tagline": "A speculative novel draft set inside a society engineered for harmony",
+   "summary": "A speculative novel about Rowan Pike and a managed society where a system called Harmony Standard smooths public life into obedience. The story begins in a carefully controlled promenade and follows the human cost of keeping every feeling and interaction within bounds. A first draft is complete in Google Docs.",
+   "highlights": [
+    "First draft of about 102,000 words",
+    "The setting uses public cues, managed spaces and social pressure to make control feel ordinary",
+    "Separate story and writing-style documents support the draft"
+   ],
+   "tech": [
+    "Google Docs"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "the-crown-and-the-quiet",
+   "title": "The Crown and the Quiet: The Quiet Bite",
+   "tagline": "A fantasy novel draft opening in the marsh village of Sedgemere",
+   "summary": "Book One of The Crown and the Quiet opens in Sedgemere, a marsh village that survives by controlling sound, breath and movement. The arrival of outsiders with a ceremony and a contract threatens rules the villagers have lived by for years. The draft is preserved as a long-form Google Doc and Word file.",
+   "highlights": [
+    "Book One draft of about 108,000 words",
+    "A sound-conscious setting shapes the scene language and local customs",
+    "Combined Google Doc and Word copies preserve the manuscript"
+   ],
+   "tech": [
+    "Google Docs",
+    "Microsoft Word"
+   ],
+   "status": "In progress",
+   "year": "2025",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "demon-eater",
+   "title": "Demon-Eater",
+   "tagline": "An occult horror trilogy in development, with a living canon and a Book One plan",
+   "summary": "A contemporary occult series about a hunter who binds a predator inside himself and kills gods to avenge his family. Each victory strengthens what he carries and weakens defenses against a larger threat. The series has a versioned canon bible and a forty-chapter Book One outline; prose drafting is still ahead.",
+   "highlights": [
+    "Living series bible at version 1.4, separating locked decisions from working proposals",
+    "Book One planned across forty chapters and five parts",
+    "A standalone Earth-side story that shares background cosmology with the Everroot Cycle"
+   ],
+   "tech": [
+    "Google Docs",
+    "Microsoft Word"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "everybody-rides",
+   "title": "Everybody Rides",
+   "tagline": "A psychological horror novella about a bus whose optimism rewrites its riders",
+   "summary": "A struggling commuter boards a remarkably cheerful bus and finds that its advice seems to improve his life. As he adopts its rules, he begins losing doubt, memory and parts of his personality. The project has a four-part master outline; it remains a planned novella rather than a finished manuscript.",
+   "highlights": [
+    "Four-part master outline with a full chapter breakdown",
+    "Ten rules arrive over ten consecutive days as the threat grows",
+    "Bright, welcoming presentation carries the horror instead of a visibly monstrous setting"
+   ],
+   "tech": [
+    "Google Docs",
+    "Microsoft Word"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "odyn-and-aria",
+   "title": "Odyn & Aria",
+   "tagline": "A space-opera story plan about exile, war and betrayal",
+   "summary": "An early space-opera project following Captain Odyn, Aria and their allies after the fall of the Helios Dominion. The surviving crew faces exile while a former friend works to seize power. Chapter and character summaries establish the arc; the work is still in planning.",
+   "highlights": [
+    "Seventeen-chapter structure in the planning documents",
+    "Parallel character arcs for Odyn, Aria and antagonist Magnus",
+    "Separate notes trace alliances, political conflict and the surviving crew"
+   ],
+   "tech": [
+    "Google Docs"
+   ],
+   "status": "Concept",
+   "year": "2024",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "the-last-song-of-eurydice",
+   "title": "The Last Song of Eurydice",
+   "tagline": "A deep-space horror story planned around a mining ship and an ancient seed vessel",
+   "summary": "Mara Vance serves aboard the mining ship Eurydice when its crew discovers a vessel capable of reshaping matter and living things. A second ship, Orpheus, becomes part of a rescue that may doom both crews. The project has ship and character material, an infection sequence, act outlines and ending concepts; it remains a story plan.",
+   "highlights": [
+    "First-person viewpoint through Mara Vance",
+    "An Orpheus and Eurydice structure shapes the failed rescue",
+    "Extensive premise, crew, infection and ending notes"
+   ],
+   "tech": [
+    "Story planning"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "the-false-world-was-kind",
+   "title": "The False World Was Kind",
+   "tagline": "A science-fiction novel concept about a colony ship that chose a simulated life",
+   "summary": "A rescue crew finds an ancient human colony ship whose six Conductors have spent centuries inside a shared simulation. Extracting one of them destabilizes the world they made. The concept includes named crews and rulers, a mystery structure, philosophical themes and an ending, with prose drafting still ahead.",
+   "highlights": [
+    "Six Conductors rule different regions of one connected simulation",
+    "A rescue attempt disrupts the simulated world's balance",
+    "The ending turns from rescue to building a real colony"
+   ],
+   "tech": [
+    "Story planning"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "gunter-sorenson",
+   "title": "The Gunter Sorenson Story",
+   "tagline": "An older superhero crime story about relapse, guilt and redemption",
+   "summary": "Former villain Gunter Sorenson tries to leave a criminal life behind in Eldoria. His struggle with relapse and guilt brings him into conflict with Agent Valor and a wider conspiracy in the city. An older chaptered draft reached roughly nine chapters and an epilogue; the project has not been verified as a finished manuscript.",
+   "highlights": [
+    "A former villain serves as the central point of view",
+    "Crime and redemption threads develop around Eldoria",
+    "Older chaptered work includes roughly nine chapters and an epilogue"
+   ],
+   "tech": [
+    "Prose drafting"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ],
  "games": [
@@ -1545,6 +1803,86 @@ export const PROJECTS = {
      "h": 1000
     }
    ]
+  },
+  {
+   "id": "swatkickers",
+   "title": "SwatKickers",
+   "tagline": "A tactical SWAT prototype that joins drawn squad plans with direct first-person control",
+   "summary": "An Unreal Engine 5.5 single-player tactical game. Players can pause into a top-down view, draw separate routes for two operators, set look directions and go-code waits, then return to first person or take control of the other operator. The current build is a playable training-room prototype, not a complete mission game.",
+   "highlights": [
+    "Packaged Windows build with a tactical camera and first-person operator switching",
+    "Two independent squad routes, shared go codes, ghost previews and AI route following",
+    "Training door can be opened by the player or by an operator following a plan",
+    "Headless gameplay tests cover route and squad behavior"
+   ],
+   "tech": [
+    "Unreal Engine 5.5",
+    "C++",
+    "Blueprints"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "little-worlds-evolution-sandbox",
+   "title": "Little Worlds: Evolution Sandbox",
+   "tagline": "A browser ecosystem where players design a founder and watch traits spread",
+   "summary": "A local browser simulation of a wide pond with prey, predators, habitats and seasonal food. Players spend a limited point budget to design a founder creature, swim as it, then release it to the simulation and follow its descendants. It is a playful simplified model of selection, not a scientific predictor.",
+   "highlights": [
+    "A 3600 by 2400-unit pond with drag, zoom, follow camera and minimap",
+    "Inherited fins, segments, size, armor, spines, camouflage and senses affect survival",
+    "Founder point budget, direct creature control, lineage inspection and trait trends",
+    "Twelve behavior tests, including seeded long runs, passed at the local checkpoint"
+   ],
+   "tech": [
+    "JavaScript",
+    "Canvas",
+    "Node.js"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "trireme",
+   "title": "Trireme",
+   "tagline": "An Unreal coastal-adventure foundation with a harbor exploration loop",
+   "summary": "An early Unreal Engine 5.5 project for exploring a harbor, reaching a cave or ruin objective and returning. Its current C++ foundation supplies a third-person character, movement and interaction, plus temporary greybox objectives. The harbor map, ships, sailing and combat are still planned work.",
+   "highlights": [
+    "Third-person movement, camera, jumping and interaction trace implemented",
+    "Temporary greybox includes a harbor notice board, relic and return objective",
+    "Coastal Expedition design document defines the first vertical slice"
+   ],
+   "tech": [
+    "Unreal Engine 5.5",
+    "C++"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "living-gods-game",
+   "title": "Living Gods (working concept)",
+   "tagline": "A god-game design centered on creatures who grow into independent public figures",
+   "summary": "A long-term game design for a world where a small group of divine creatures develop personalities, reputations and relationships with autonomous towns. Creatures may advise, rule, rebel or stay outside politics, while villagers form families, careers and institutions. The work is a systems design; no playable build has been verified.",
+   "highlights": [
+    "Creature growth and treatment shape personality and reputation",
+    "Town politics respond to legitimacy, fear, respect and cultural fit",
+    "Design covers autonomous villagers, institutions and large-scale world simulation"
+   ],
+   "tech": [
+    "Game design",
+    "Simulation design"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ],
  "automation": [
@@ -1829,6 +2167,25 @@ export const PROJECTS = {
      "h": 900
     }
    ]
+  },
+  {
+   "id": "podcast-generation-platform",
+   "title": "Podcast Generation Platform",
+   "tagline": "A planned, review-led workflow for researched audio episodes",
+   "summary": "A product design for taking a broad topic through idea ranking, deep research, an approved outline, dialogue writing, voice production, assembly and final-listen review. A control dashboard is planned for sources, speakers, tone, length and regeneration. The architecture and audio experiments remain ahead; this is a design concept, not a released platform.",
+   "highlights": [
+    "Topic approval separates initial research from deeper production",
+    "Script and voice choices stay under operator control",
+    "Final-listen quality review is a required production step"
+   ],
+   "tech": [
+    "Workflow design",
+    "Audio production"
+   ],
+   "status": "Concept",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ]
 };
