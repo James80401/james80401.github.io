@@ -354,7 +354,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-art-cade/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a rock shop with mineral displays and arcade cabinets.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   }
  ],
  "code": [
@@ -782,7 +791,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/guided-memoir/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a memoir interview with a microphone, photographs and a recording laptop.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "e-story-generation",
@@ -805,7 +823,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/e-story-generation/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a writer's desk with storyboards and chapter review screens.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "generation-station",
@@ -827,7 +854,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/generation-station/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a studio desk for story, video and image workflows.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   }
  ],
  "writing": [
@@ -1109,7 +1145,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2025",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-spring-beneath/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of an investigator descending beneath a rain-soaked town beside an empty bicycle.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "the-quiet-engine",
@@ -1127,7 +1172,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-quiet-engine/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of a lone walker on a regimented civic promenade with a wildflower in the pavement.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "the-crown-and-the-quiet",
@@ -1146,7 +1200,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2025",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-crown-and-the-quiet/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of cloaked travelers entering a misty marsh village at dusk.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "demon-eater",
@@ -1165,7 +1228,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/demon-eater/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of a hunter at a dark chapel with an ominous shadow behind him.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "everybody-rides",
@@ -1184,7 +1256,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/everybody-rides/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of a hesitant commuter approaching a warmly lit bus full of smiling passengers.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "odyn-and-aria",
@@ -1202,7 +1283,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2024",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/odyn-and-aria/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of two exiled starship crew members watching a burning empire in the distance.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "the-last-song-of-eurydice",
@@ -1220,7 +1310,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-last-song-of-eurydice/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of mining and rescue ships beside a vast ancient vessel in space.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "the-false-world-was-kind",
@@ -1238,7 +1337,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/the-false-world-was-kind/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of dormant simulation chambers opening toward an impossible green landscape.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "gunter-sorenson",
@@ -1256,7 +1364,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/gunter-sorenson/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated book concept illustration of a weary former villain holding a torn costume in a rainy city alley.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "around-the-world-in-eighty-days-storybook",
@@ -1276,7 +1393,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/around-the-world-in-eighty-days-storybook/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated storybook concept illustration of Fogg, Passepartout and Aouda looking across a nineteenth-century harbor.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "count-of-monte-cristo-storybook",
@@ -1296,7 +1422,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/count-of-monte-cristo-storybook/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated storybook concept illustration of Edmond Dantes on a Mediterranean shore at sunrise.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "three-musketeers-storybook",
@@ -1316,7 +1451,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/three-musketeers-storybook/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated storybook concept illustration of four musketeer friends helping a traveler in a French village.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "secret-garden-storybook",
@@ -1336,7 +1480,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/secret-garden-storybook/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated storybook concept illustration of a girl opening a gate into a spring garden.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   },
   {
    "id": "eleanor-and-the-wobbly-bridge",
@@ -1356,7 +1509,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/eleanor-and-the-wobbly-bridge/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated Catterton storybook concept illustration of three cats crossing a root bridge toward glowing flowers.",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
   }
  ],
  "games": [
@@ -1923,7 +2085,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/swatkickers/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated game concept illustration of two planned routes through a neutral indoor training maze.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "little-worlds-evolution-sandbox",
@@ -1944,7 +2115,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/little-worlds-evolution-sandbox/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated game concept illustration of varied pond creatures and branching trait paths underwater.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "trireme",
@@ -1963,7 +2143,16 @@ export const PROJECTS = {
    "status": "In progress",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/trireme/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated game concept illustration of an explorer at an ancient harbor facing oared ships and a coastal cave.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "living-gods-game",
@@ -1982,7 +2171,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/living-gods-game/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated game concept illustration of gentle mythical creatures watching two towns in a green valley.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   }
  ],
  "automation": [
@@ -2287,7 +2485,16 @@ export const PROJECTS = {
    "status": "Prototype",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/content-house/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a video editorial desk with history subject cards and review columns.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   },
   {
    "id": "podcast-generation-platform",
@@ -2306,7 +2513,16 @@ export const PROJECTS = {
    "status": "Concept",
    "year": "2026",
    "links": [],
-   "media": []
+   "media": [
+    {
+     "file": "media/podcast-generation-platform/illustration.jpg",
+     "caption": "Generated illustration, not a screenshot",
+     "kind": "illustration",
+     "alt": "Generated portfolio concept illustration of a research and audio production studio with microphones and waveforms.",
+     "w": 1586,
+     "h": 992
+    }
+   ]
   }
  ]
 };
