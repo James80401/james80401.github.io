@@ -1257,6 +1257,106 @@ export const PROJECTS = {
    "year": "2026",
    "links": [],
    "media": []
+  },
+  {
+   "id": "around-the-world-in-eighty-days-storybook",
+   "title": "Around the World in Eighty Days: A Journey of Wonder and Friendship",
+   "tagline": "A 240-image illustrated retelling of Jules Verne's adventure",
+   "summary": "A child-safe visual adaptation of Jules Verne's public-domain journey, produced through James's Story Builder. Phileas Fogg, Passepartout, Aouda and Inspector Fix travel around the globe while the retelling emphasizes friendship, local knowledge and generosity. The 240-scene book has an immutable export package and print interior; final platform upload validation is still required.",
+   "highlights": [
+    "240 approved illustrations and ordered scene pages",
+    "8 by 10 inch full-color interior and KDP-oriented bleed PDF exported",
+    "Character and location guides keep the route consistent across the book"
+   ],
+   "tech": [
+    "Story Builder",
+    "AI-assisted illustration",
+    "PDF production"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "count-of-monte-cristo-storybook",
+   "title": "The Count of Monte Cristo: A Story of Hope and Mercy",
+   "tagline": "A 240-image illustrated retelling of Alexandre Dumas's classic",
+   "summary": "A child-safe illustrated adaptation of Alexandre Dumas's public-domain story, made in James's Story Builder. It follows Edmond Dantes from betrayal and imprisonment toward discovery, accountability and mercy. The project has 240 approved scene illustrations and a complete print export package, with final upload validation still ahead.",
+   "highlights": [
+    "240 approved illustrations and ordered scene pages",
+    "8 by 10 inch full-color interior and KDP-oriented bleed PDF exported",
+    "A separate visual world guide covers Marseille, the Chateau d'If and later settings"
+   ],
+   "tech": [
+    "Story Builder",
+    "AI-assisted illustration",
+    "PDF production"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "three-musketeers-storybook",
+   "title": "The Three Musketeers: One for All",
+   "tagline": "An illustrated, child-safe retelling of the Musketeers' friendship",
+   "summary": "An illustrated adaptation inspired by Alexandre Dumas's public-domain Musketeers, produced in James's Story Builder. D'Artagnan joins Athos, Porthos and Aramis in a younger, gentler visual world built around courage, kindness and peaceful problem-solving. A later export package contains 120 approved scene pages and a print interior; publication has not been verified.",
+   "highlights": [
+    "120 approved illustrations in the later immutable export",
+    "8 by 10 inch full-color interior PDF assembled",
+    "Two export versions preserve the progression of the storybook"
+   ],
+   "tech": [
+    "Story Builder",
+    "AI-assisted illustration",
+    "PDF production"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "secret-garden-storybook",
+   "title": "The Secret Garden: A Story of Renewal and Friendship",
+   "tagline": "A 240-image illustrated retelling of Frances Hodgson Burnett's classic",
+   "summary": "A gentle, all-ages adaptation of Frances Hodgson Burnett's public-domain novel, produced through James's Story Builder. Mary's arrival at Misselthwaite and the garden's return to life are told through a historically grounded visual world. A 240-image Drive preview, immutable export manifest and passing preflight report exist; final KDP upload validation remains open.",
+   "highlights": [
+    "240 approved scene assets recorded in an immutable export manifest",
+    "8 by 10 inch full-color illustrated interior preview assembled",
+    "Character and location guides track the story's winter-to-spring visual arc"
+   ],
+   "tech": [
+    "Story Builder",
+    "AI-assisted illustration",
+    "PDF production"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
+  },
+  {
+   "id": "eleanor-and-the-wobbly-bridge",
+   "title": "Catterton Read-Alouds: Eleanor and the Wobbly Bridge",
+   "tagline": "A picture-book read-aloud about asking for help and leading together",
+   "summary": "A standalone Catterton read-aloud for ages four to eight. Eleanor wants to lead her sisters over a root bridge to see lantern flowers after the rain, then learns that asking for help can be part of leading. A thirty-image story and poem draft, lettered page images and a compiled read-aloud PDF exist; the Story Builder workspace still records storyboard planning.",
+   "highlights": [
+    "Thirty story images with sixty short read-aloud lines",
+    "Lettered page images and a compiled local PDF",
+    "Keeps the established three-cat designs and Whisker Warren setting"
+   ],
+   "tech": [
+    "Story Builder",
+    "Illustrated read-aloud",
+    "PDF production"
+   ],
+   "status": "In progress",
+   "year": "2026",
+   "links": [],
+   "media": []
   }
  ],
  "games": [
@@ -2167,6 +2267,27 @@ export const PROJECTS = {
      "h": 900
     }
    ]
+  },
+  {
+   "id": "content-house",
+   "title": "Content House",
+   "tagline": "A local editorial desk that plans and checks video packages before production",
+   "summary": "A local web desk for managing faceless video shows. It stores show rules, draws on an existing history topic bank, checks for duplicate subjects, and guides a proposed video through research cards, release checks, shot planning and a voice specification. Eleven rule-based roles can pass, hold or reject a package. The desk plans and reviews; separate tools make the finished video, and no channel launch has been verified.",
+   "highlights": [
+    "Eleven rule-based editorial and production roles with pass, hold and reject states",
+    "History topic bank and video ledger are read without changing their source records",
+    "Accepted packages reserve a subject to avoid repeats",
+    "Show rules and review gates are shared with the recap production workflow"
+   ],
+   "tech": [
+    "Python",
+    "Local web app",
+    "Editorial workflow"
+   ],
+   "status": "Prototype",
+   "year": "2026",
+   "links": [],
+   "media": []
   },
   {
    "id": "podcast-generation-platform",
